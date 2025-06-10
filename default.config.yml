@@ -17,6 +17,7 @@ homebrew_cask_apps:
   - yubico-authenticator
   - postman
   - wireshark
+  - microsoft-office
 
 homebrew_installed_packages:
   - git
