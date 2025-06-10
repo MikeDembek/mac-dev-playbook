@@ -5,11 +5,11 @@
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - firefox
-  # - google-chrome # usually installed manually
+  - google-chrome
   - sublime-text
   - powershell
   - raspberry-pi-imager
-  # - orcaslicer # already installed
+  - orcaslicer
   - claude
   - visual-studio-code
   - github
