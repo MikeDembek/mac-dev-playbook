@@ -25,6 +25,7 @@ homebrew_installed_packages:
   - openssl
   - wget
   - curl
+  - ansible
 
 homebrew_upgrade_all_packages: true
 
