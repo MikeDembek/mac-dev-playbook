@@ -26,6 +26,7 @@ homebrew_installed_packages:
   - wget
   - curl
   - ansible
+  - python
 
 homebrew_upgrade_all_packages: true
 
