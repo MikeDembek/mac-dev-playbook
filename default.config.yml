@@ -19,6 +19,7 @@ homebrew_cask_apps:
   - wireshark
   - microsoft-office
   - microsoft-teams
+  - snagit
 
 homebrew_installed_packages:
   - git
